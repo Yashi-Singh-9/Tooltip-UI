@@ -30,11 +30,11 @@ To use this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://gitlab.com/Yashi-Singh-9/tooltip-ui.git
+   git clone https://github.com/Yashi-Singh-9/Tooltip-UI.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd tooltip-ui
+   cd Tooltip-UI
    ```
 3. Open the `index.html` file in your preferred web browser:
    ```bash
@@ -51,7 +51,7 @@ No additional installation is required, as the project is purely HTML and CSS.
 
 If you encounter any issues or have questions, you can reach out via:
 
-- Opening an issue in the [Gitlab repository](https://gitlab.com/Yashi-Singh-9/tooltip-ui/issues).
+- Opening an issue in the [Github repository](https://github.com/Yashi-Singh-9/Tooltip-UI/issues).
 - LinkedIn: [Yashi Singh](https://www.linkedin.com/in/yashi-singh-b4143a246)
 
 ## Roadmap
